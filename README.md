@@ -1,5 +1,5 @@
-# The Concordia Sacrae Website
+# The Concordia Sacrae Static Website
 
-At this point the Concordia Sacrae website is a trivial single HTML5 + trivial JS page and is out of date.  The new Website is in the early stages of development.
-So early, in fact, that the tech stack has not been selected, where to host the site has not been selected, and the team is in the process of being formed.
-See the Wiki for a discussion on the requirements and design of the website.
+At this point the Concordia Sacrae website is a trivial single HTML5 + trivial JS page and is out of date.  The MVP (Minimum Viable Product) of the new Concordia Sacrae
+Static Website will be built using Jekyll, with the Material Design / Bootstrap framework from MDB5.  The intent is deploy this to the Content Delivery Network (CDN)
+of CloudFlare.
